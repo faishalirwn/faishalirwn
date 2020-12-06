@@ -1,5 +1,3 @@
-<h3 align="center"><img src="https://raw.githubusercontent.com/faishalirwn/faishalirwn/master/mob.gif" alt="logo" height="100px"></h3>
-
 <!--
 **faishalirwn/faishalirwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
