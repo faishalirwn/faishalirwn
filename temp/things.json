@@ -28,7 +28,6 @@
       "type": "raster"
     }
   },
-  "glyphs": "https://basemap.mapid.io/fonts/{fontstack}/{range}.pbf?key=66c6ae6fcf646ec59d9e28f0",
   "layers": [
     {
       "id": "background",
